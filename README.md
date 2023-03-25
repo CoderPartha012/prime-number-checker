@@ -1,2 +1,2 @@
 # prime-number-checker
-Prime Number Checker
+Prime Number Checker using parameterized test in junit

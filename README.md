@@ -1,4 +1,4 @@
-# prime-number-checker
+# prime-number-checker (Automation Testing)
 Prime Number Checker using parameterized test in junit
 
 An example of a Prime Number Checker using parameterized tests in JUnit 5👉👉

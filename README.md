@@ -3,7 +3,7 @@ Prime Number Checker using parameterized test in junit
 
 An example of a Prime Number Checker using parameterized tests in JUnit 5👉👉
  
- 👉 Step-1:  Create the java program to check  for prime or not.
+ 👉 Step-1: Create the java program to check  for prime or not.
  
   Code: 
  
